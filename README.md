@@ -1,5 +1,4 @@
-# kubernetes-lab-3
-
+# kubernetes-lab-3 - Pdf File
 
 
 [K8s-lab3.pdf](https://github.com/user-attachments/files/18769019/K8s-lab3.pdf)
